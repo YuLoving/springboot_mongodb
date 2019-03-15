@@ -1,0 +1,4 @@
+spring:
+\u3000\u3000data:
+\u3000\u3000\u3000\u3000mongodb:
+\u3000\u3000\u3000\u3000\u3000\u3000uri: mongodb://localhost:27017/test
